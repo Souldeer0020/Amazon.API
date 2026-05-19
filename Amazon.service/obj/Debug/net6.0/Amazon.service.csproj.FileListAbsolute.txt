@@ -1,0 +1,146 @@
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.deps.json
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.dll
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.pdb
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.dll
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\refint\Amazon.service.dll
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.pdb
+C:\Users\Dell\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\ref\Amazon.service.dll
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.deps.json
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.dll
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.pdb
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfoInputs.cache
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfo.cs
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.CoreCompileInputs.cache
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.dll
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\refint\Amazon.service.dll
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.pdb
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\ref\Amazon.service.dll
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.dll
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.pdb
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.AssemblyReference.cache
+F:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.s.D4CF472A.Up2Date
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.deps.json
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.dll
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.pdb
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.dll
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.pdb
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.AssemblyReference.cache
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfoInputs.cache
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfo.cs
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.CoreCompileInputs.cache
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.s.D4CF472A.Up2Date
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.dll
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\refint\Amazon.service.dll
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.pdb
+E:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\ref\Amazon.service.dll
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.deps.json
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.dll
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.pdb
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.dll
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.pdb
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.AssemblyReference.cache
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfoInputs.cache
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfo.cs
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.CoreCompileInputs.cache
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.s.D4CF472A.Up2Date
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.dll
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\refint\Amazon.service.dll
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.pdb
+D:\study\Api\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\ref\Amazon.service.dll
+E:\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.deps.json
+E:\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.dll
+E:\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.pdb
+E:\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.dll
+E:\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.pdb
+E:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.AssemblyReference.cache
+E:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfoInputs.cache
+E:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfo.cs
+E:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.CoreCompileInputs.cache
+E:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.s.D4CF472A.Up2Date
+E:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.dll
+E:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\refint\Amazon.service.dll
+E:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.pdb
+E:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\ref\Amazon.service.dll
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.deps.json
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.dll
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.pdb
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.dll
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.pdb
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.AssemblyReference.cache
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfoInputs.cache
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfo.cs
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.CoreCompileInputs.cache
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.s.D4CF472A.Up2Date
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.dll
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\refint\Amazon.service.dll
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.pdb
+C:\Users\mido0\OneDrive\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\ref\Amazon.service.dll
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.deps.json
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.dll
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.pdb
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.dll
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.pdb
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.AssemblyReference.cache
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfoInputs.cache
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfo.cs
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.CoreCompileInputs.cache
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.s.D4CF472A.Up2Date
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.dll
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\refint\Amazon.service.dll
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.pdb
+C:\Users\mido0\source\repos\Amazon.API`s\Amazon.service\obj\Debug\net6.0\ref\Amazon.service.dll
+F:\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.deps.json
+F:\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.dll
+F:\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.pdb
+F:\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.dll
+F:\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.pdb
+F:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.AssemblyReference.cache
+F:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfoInputs.cache
+F:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfo.cs
+F:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.CoreCompileInputs.cache
+F:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.s.D4CF472A.Up2Date
+F:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.dll
+F:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\refint\Amazon.service.dll
+F:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.pdb
+F:\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\ref\Amazon.service.dll
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.deps.json
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.dll
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.pdb
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.dll
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.pdb
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.AssemblyReference.cache
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfoInputs.cache
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfo.cs
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.CoreCompileInputs.cache
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.s.D4CF472A.Up2Date
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.dll
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\refint\Amazon.service.dll
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.pdb
+C:\Users\mido0\OneDrive\Desktop\Source code\Amazon.API`s\Amazon.service\obj\Debug\net6.0\ref\Amazon.service.dll
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.deps.json
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.dll
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.service.pdb
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.dll
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\bin\Debug\net6.0\Amazon.core.pdb
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.s.D4CF472A.Up2Date
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.dll
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\refint\Amazon.service.dll
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\Amazon.service.pdb
+C:\Users\Lenovo\Desktop\Amazon.API`s\Amazon.service\obj\Debug\net6.0\ref\Amazon.service.dll

@@ -1,0 +1,1331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0DBC-A9F1-4300-AA11-600953BF275B}|Amazon.service\\Amazon.service.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E0DBC-A9F1-4300-AA11-600953BF275B}|Amazon.service\\Amazon.service.csproj|solutionrelative:amazon.service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0DBC-A9F1-4300-AA11-600953BF275B}|Amazon.service\\Amazon.service.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E0DBC-A9F1-4300-AA11-600953BF275B}|Amazon.service\\Amazon.service.csproj|solutionrelative:amazon.service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\amazon.api\u0060s.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\amazon.api\u0060s.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\amazon.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\amazon.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0DBC-A9F1-4300-AA11-600953BF275B}|Amazon.service\\Amazon.service.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E0DBC-A9F1-4300-AA11-600953BF275B}|Amazon.service\\Amazon.service.csproj|solutionrelative:amazon.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\identity\\appidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\identity\\appidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\identity\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\identity\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\config\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\config\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\helpers\\orderitempictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\helpers\\orderitempictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\extensions\\usermanagerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\extensions\\usermanagerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\extensions\\applicationservicesandmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\extensions\\applicationservicesandmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\errors\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\errors\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\customerbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\customerbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\specifications\\orderwithpaymentintentidspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\orderwithpaymentintentidspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\order aggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\order aggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\specifications\\ordersspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\ordersspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\config\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\config\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\config\\productconfiguraation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\config\\productconfiguraation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\config\\deliverymethodconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\config\\deliverymethodconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\order aggregate\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\order aggregate\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\order aggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\order aggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\order aggregate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\order aggregate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\specifications\\productwithfilterationtypespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\productwithfilterationtypespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\specifications\\productswithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\productswithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\order aggregate\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\order aggregate\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\order aggregate\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\order aggregate\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Back data\\08 ASP.NET Core Web APIs\\Session 05\\delivery.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.core\\entities\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\identity\\migrations\\20260308140903_identityinitialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\identity\\migrations\\20260308140903_identityinitialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\identity\\migrations\\appidentitydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\identity\\migrations\\appidentitydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\identity\\migrations\\20260308140903_identityinitialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\identity\\migrations\\20260308140903_identityinitialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\amazon.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\amazon.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\dataseed\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\dataseed\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\dataseed\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\dataseed\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\migrations\\20260405210156_orderaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\migrations\\20260405210156_orderaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\migrations\\20260407210639_makingdeliverymethodnotimplementingbaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\migrations\\20260407210639_makingdeliverymethodnotimplementingbaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\migrations\\20260416122228_making name attribute in baseentity allow null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\migrations\\20260416122228_making name attribute in baseentity allow null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\lenovo\\desktop\\amazon.api\u0060s\\amazon.repository\\data\\migrations\\20260427131227_updatingdeletebehaviourfororderandorderitemtobecascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\migrations\\20260427131227_updatingdeletebehaviourfororderandorderitemtobecascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Amazon.service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.service\\TokenService.cs",
+              "RelativeToolTip": "Amazon.service\\TokenService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:54:46.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Amazon.service\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.service\\PaymentService.cs",
+              "RelativeToolTip": "Amazon.service\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:01:21.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Amazon.API\u0060s.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "RelativeToolTip": "Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T11:46:50.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Amazon.core.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Amazon.core.csproj",
+              "RelativeDocumentMoniker": "Amazon.core\\Amazon.core.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Amazon.core.csproj",
+              "RelativeToolTip": "Amazon.core\\Amazon.core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T11:46:51.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\appsettings.json",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\appsettings.json",
+              "RelativeToolTip": "Amazon.API\u0060s\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T11:46:50.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:27:52.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:57:58.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T12:39:09.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\GenericRepository.cs",
+              "RelativeToolTip": "Amazon.repository\\GenericRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\BasketRepository.cs",
+              "RelativeToolTip": "Amazon.repository\\BasketRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:17:17.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoreContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContextSeed.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\StoreContextSeed.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContextSeed.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\StoreContextSeed.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContext.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\StoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppIdentityDbContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Identity\\AppIdentityDbContextSeed.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Identity\\AppIdentityDbContextSeed.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Identity\\AppIdentityDbContextSeed.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Identity\\AppIdentityDbContextSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:33:24.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Identity\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Identity\\AppIdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Identity\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Identity\\AppIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:33:16.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.service\\OrderService.cs",
+              "RelativeDocumentMoniker": "Amazon.service\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.service\\OrderService.cs",
+              "RelativeToolTip": "Amazon.service\\OrderService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAIAwwFAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T23:34:19.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Config\\OrderItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Config\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:52:24.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\IUnitOfWork.cs",
+              "RelativeToolTip": "Amazon.core\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:39:22.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\BasketItem.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\BasketItem.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\BasketItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:47:06.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Program.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Program.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:50.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderItemPictureUrlResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\OrderItemPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Helpers\\OrderItemPictureUrlResolver.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\OrderItemPictureUrlResolver.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Helpers\\OrderItemPictureUrlResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T22:09:40.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "userManagerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Extensions\\userManagerExtension.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Extensions\\userManagerExtension.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Extensions\\userManagerExtension.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Extensions\\userManagerExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T11:40:20.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationServicesAndMiddlewares.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Extensions\\ApplicationServicesAndMiddlewares.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Extensions\\ApplicationServicesAndMiddlewares.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Extensions\\ApplicationServicesAndMiddlewares.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Extensions\\ApplicationServicesAndMiddlewares.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:27:50.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApiValidationErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApiExceptionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:50.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\AddressDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\AddressDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\AddressDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\AddressDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T11:38:16.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\BasketItemDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\BasketItemDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\BasketItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:47:19.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerBasketDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\CustomerBasketDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\CustomerBasketDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\CustomerBasketDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\CustomerBasketDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:46:01.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwDcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T15:07:21.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ErrorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ErrorsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\ErrorsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ErrorsController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\ErrorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "buggyController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:50.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "basketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\basketsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\basketsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\basketsController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\basketsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:51:51.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:50.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Amazon.core\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T23:16:53.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\Order.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Order Aggregate\\Order.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\Order.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Order Aggregate\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T20:03:19.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomerBasket.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\CustomerBasket.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\CustomerBasket.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\CustomerBasket.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\CustomerBasket.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:09:48.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T11:46:51.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderWithPaymentIntentIdSpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\OrderWithPaymentIntentIdSpecifications.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\OrderWithPaymentIntentIdSpecifications.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\OrderWithPaymentIntentIdSpecifications.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\OrderWithPaymentIntentIdSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:35:00.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Amazon.core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrdersSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\OrdersSpecification.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\OrdersSpecification.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\OrdersSpecification.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\OrdersSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:21:39.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20260427131227_UpdatingDeleteBehaviourForOrderAndOrderItemToBeCascade.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Migrations\\20260427131227_UpdatingDeleteBehaviourForOrderAndOrderItemToBeCascade.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Migrations\\20260427131227_UpdatingDeleteBehaviourForOrderAndOrderItemToBeCascade.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Migrations\\20260427131227_UpdatingDeleteBehaviourForOrderAndOrderItemToBeCascade.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Migrations\\20260427131227_UpdatingDeleteBehaviourForOrderAndOrderItemToBeCascade.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:12:27.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DeliveryMethodConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\DeliveryMethodConfiguration.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Config\\DeliveryMethodConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\DeliveryMethodConfiguration.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Config\\DeliveryMethodConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T18:18:53.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Config\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\OrderConfiguration.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Config\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T23:03:23.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductConfiguraation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "Amazon.core\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:00:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Amazon.repository\\UnitOfWork.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAASwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:42:46.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DeliveryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\DeliveryMethod.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Order Aggregate\\DeliveryMethod.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\DeliveryMethod.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Order Aggregate\\DeliveryMethod.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:51:30.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Product.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\WeatherForecast.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:50.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\OrderDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:01:43.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\SpecificationEvaluator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Amazon.repository\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCIAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductItemOrdered.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\ProductItemOrdered.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Order Aggregate\\ProductItemOrdered.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\ProductItemOrdered.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Order Aggregate\\ProductItemOrdered.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:57:50.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Order Aggregate\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\OrderItem.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Order Aggregate\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:56:12.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductSpecParams.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductSpecParams.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\ProductSpecParams.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductSpecParams.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\ProductSpecParams.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:32:22.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrderToReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\OrderToReturnDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\OrderToReturnDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\OrderToReturnDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\OrderToReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:52:02.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\OrderItemDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:54:09.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductWithFilterationTypeSpec.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductWithFilterationTypeSpec.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\ProductWithFilterationTypeSpec.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductWithFilterationTypeSpec.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\ProductWithFilterationTypeSpec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:20:55.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProductsWithBrandAndTypeSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wBAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20260416122228_Making Name attribute in BaseEntity allow null.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Migrations\\20260416122228_Making Name attribute in BaseEntity allow null.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Migrations\\20260416122228_Making Name attribute in BaseEntity allow null.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Migrations\\20260416122228_Making Name attribute in BaseEntity allow null.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Migrations\\20260416122228_Making Name attribute in BaseEntity allow null.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:22:28.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductType.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductType.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\Address.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Order Aggregate\\Address.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\Address.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Order Aggregate\\Address.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:49:34.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\ProductBrand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductBrand.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Order Aggregate\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Order Aggregate\\OrderStatus.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Order Aggregate\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T19:53:05.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "delivery.json",
+              "DocumentMoniker": "D:\\Back data\\08 ASP.NET Core Web APIs\\Session 05\\delivery.json",
+              "ToolTip": "D:\\Back data\\08 ASP.NET Core Web APIs\\Session 05\\delivery.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T15:18:19.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20260407210639_MakingDeliveryMethodNotImplementingBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Migrations\\20260407210639_MakingDeliveryMethodNotImplementingBaseEntity.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Migrations\\20260407210639_MakingDeliveryMethodNotImplementingBaseEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Migrations\\20260407210639_MakingDeliveryMethodNotImplementingBaseEntity.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Migrations\\20260407210639_MakingDeliveryMethodNotImplementingBaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T21:06:39.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20260405210156_OrderAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Migrations\\20260405210156_OrderAggregate.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Migrations\\20260405210156_OrderAggregate.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\Migrations\\20260405210156_OrderAggregate.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Migrations\\20260405210156_OrderAggregate.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T21:01:56.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T11:41:12.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Identity\\Address.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Identity\\Address.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.core\\Entities\\Identity\\Address.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Identity\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T11:38:25.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProductToReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:46:51.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20260308140903_IdentityInitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.Designer.cs",
+              "RelativeToolTip": "Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAIBJwE4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:43:04.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AppIdentityDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Identity\\Migrations\\AppIdentityDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Identity\\Migrations\\AppIdentityDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Identity\\Migrations\\AppIdentityDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Amazon.repository\\Identity\\Migrations\\AppIdentityDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAIBJwFcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:43:05.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20260308140903_IdentityInitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.cs",
+              "RelativeToolTip": "Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:43:01.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Amazon.repository.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Amazon.repository.csproj",
+              "RelativeDocumentMoniker": "Amazon.repository\\Amazon.repository.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Amazon.repository.csproj",
+              "RelativeToolTip": "Amazon.repository\\Amazon.repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T11:46:51.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "brands.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\brands.json",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\DataSeed\\brands.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\brands.json",
+              "RelativeToolTip": "Amazon.repository\\Data\\DataSeed\\brands.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T11:46:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\products.json",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\DataSeed\\products.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\products.json",
+              "RelativeToolTip": "Amazon.repository\\Data\\DataSeed\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T11:46:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "types.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\types.json",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\DataSeed\\types.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\types.json",
+              "RelativeToolTip": "Amazon.repository\\Data\\DataSeed\\types.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T11:46:51.122Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

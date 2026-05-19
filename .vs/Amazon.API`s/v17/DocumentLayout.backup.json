@@ -1,0 +1,595 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\errors\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\errors\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\amazon.api\u0060s.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\amazon.api\u0060s.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.core\\specifications\\productswithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\productswithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.repository\\amazon.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\amazon.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.repository\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.repository\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.repository\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.repository\\data\\dataseed\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\dataseed\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.repository\\data\\dataseed\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\dataseed\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.repository\\data\\config\\productconfiguraation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\config\\productconfiguraation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|c:\\users\\dell\\source\\repos\\amazon.api\u0060s\\amazon.core\\amazon.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\amazon.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\WeatherForecast.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T23:23:19.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\appsettings.json",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\appsettings.json",
+              "RelativeToolTip": "Amazon.API\u0060s\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T12:49:35.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:25:51.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T14:11:53.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:36:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Program.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Program.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T20:58:17.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ErrorsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\ErrorsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ErrorsController.cs*",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\ErrorsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T18:28:46.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiValidationErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:27:46.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:02:29.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:26:13.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "buggyController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:19:19.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiExceptionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T14:20:36.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Amazon.API\u0060s",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "RelativeToolTip": "Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T14:59:15.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T14:59:33.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\SpecificationEvaluator.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Amazon.repository\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:28:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Entities\\Product.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:11:10.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:12:07.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductToReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:09:08.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Amazon.core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:50:41.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductsWithBrandAndTypeSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T17:11:57.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\GenericRepository.cs",
+              "RelativeToolTip": "Amazon.repository\\GenericRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBQwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:52:14.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:25:30.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Amazon.repository.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Amazon.repository.csproj",
+              "RelativeDocumentMoniker": "Amazon.repository\\Amazon.repository.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Amazon.repository.csproj",
+              "RelativeToolTip": "Amazon.repository\\Amazon.repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T17:21:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:24:19.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "brands.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\brands.json",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\DataSeed\\brands.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\brands.json",
+              "RelativeToolTip": "Amazon.repository\\Data\\DataSeed\\brands.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T12:42:49.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StoreContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContextSeed.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\StoreContextSeed.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContextSeed.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\StoreContextSeed.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:39:48.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\products.json",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\DataSeed\\products.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\products.json",
+              "RelativeToolTip": "Amazon.repository\\Data\\DataSeed\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T12:55:56.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductConfiguraation.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:46:20.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContext.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\StoreContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:42:57.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:09:08.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "types.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\types.json",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\DataSeed\\types.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\types.json",
+              "RelativeToolTip": "Amazon.repository\\Data\\DataSeed\\types.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T12:55:32.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductType.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductType.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:10:10.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\ProductBrand.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductBrand.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:09:37.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Amazon.core.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Amazon.core.csproj",
+              "RelativeDocumentMoniker": "Amazon.core\\Amazon.core.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Amazon.API\u0060s\\Amazon.core\\Amazon.core.csproj",
+              "RelativeToolTip": "Amazon.core\\Amazon.core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T12:08:55.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

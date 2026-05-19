@@ -1,0 +1,896 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0DBC-A9F1-4300-AA11-600953BF275B}|Amazon.service\\Amazon.service.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11E0DBC-A9F1-4300-AA11-600953BF275B}|Amazon.service\\Amazon.service.csproj|solutionrelative:amazon.service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\extensions\\applicationservicesandmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\extensions\\applicationservicesandmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11E0DBC-A9F1-4300-AA11-600953BF275B}|Amazon.service\\Amazon.service.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.service\\amazon.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F11E0DBC-A9F1-4300-AA11-600953BF275B}|Amazon.service\\Amazon.service.csproj|solutionrelative:amazon.service\\amazon.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\amazon.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\amazon.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\errors\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\errors\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\data\\identity\\appidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\identity\\appidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\data\\identity\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\identity\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\entities\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\repositories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\repositories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\entities\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\amazon.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\amazon.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\specifications\\productswithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\productswithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\specifications\\productwithfilterationtypespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\productwithfilterationtypespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\amazon.api\u0060s.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\amazon.api\u0060s.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.api\u0060s\\dto\u0060s\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB11AFCE-07FC-4B75-8011-3DB827CC2466}|Amazon.API\u0060s\\Amazon.API\u0060s.csproj|solutionrelative:amazon.api\u0060s\\dto\u0060s\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\data\\dataseed\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\dataseed\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\data\\dataseed\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\dataseed\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\data\\config\\productconfiguraation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\data\\config\\productconfiguraation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F28B8A-C8DD-43B3-A07A-F5060BE45D9D}|Amazon.core\\Amazon.core.csproj|solutionrelative:amazon.core\\entities\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|f:\\study\\api\\source code\\amazon.api\u0060s\\amazon.repository\\identity\\migrations\\20260308140903_identityinitialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998CAE9-721B-410C-8810-4FFFEA6469E5}|Amazon.repository\\Amazon.repository.csproj|solutionrelative:amazon.repository\\identity\\migrations\\20260308140903_identityinitialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Services\\ITokenService.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Services\\ITokenService.cs",
+              "RelativeToolTip": "Amazon.core\\Services\\ITokenService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:55:45.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Amazon.service\\TokenService.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.service\\TokenService.cs",
+              "RelativeToolTip": "Amazon.service\\TokenService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:46:20.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Program.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Program.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Program.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T20:58:17.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServicesAndMiddlewares.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Extensions\\ApplicationServicesAndMiddlewares.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Extensions\\ApplicationServicesAndMiddlewares.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Extensions\\ApplicationServicesAndMiddlewares.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Extensions\\ApplicationServicesAndMiddlewares.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:03:44.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\AccountsController.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\AccountsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:31:32.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Amazon.service",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.service\\Amazon.service.csproj",
+              "RelativeDocumentMoniker": "Amazon.service\\Amazon.service.csproj",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.service\\Amazon.service.csproj",
+              "RelativeToolTip": "Amazon.service\\Amazon.service.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T12:41:46.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\SpecificationEvaluator.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Amazon.repository\\SpecificationEvaluator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:28:40.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Amazon.core",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Amazon.core.csproj",
+              "RelativeDocumentMoniker": "Amazon.core\\Amazon.core.csproj",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Amazon.core.csproj",
+              "RelativeToolTip": "Amazon.core\\Amazon.core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T13:47:41.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\appsettings.json",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\appsettings.json",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\appsettings.json",
+              "RelativeToolTip": "Amazon.API\u0060s\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T12:49:35.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\UserDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\UserDto.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\UserDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\UserDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:34:09.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\Identity\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Identity\\AppIdentityDbContext.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\Identity\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Identity\\AppIdentityDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:01:11.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Amazon.API\u0060s\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T14:59:33.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppIdentityDbContextSeed.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\Identity\\AppIdentityDbContextSeed.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Identity\\AppIdentityDbContextSeed.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\Identity\\AppIdentityDbContextSeed.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Identity\\AppIdentityDbContextSeed.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:39:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Errors\\ApiResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:36:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Middlewares\\ExceptionMiddleware.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T14:11:53.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Helpers\\MappingProfiles.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:12:07.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiExceptionResponse.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Errors\\ApiExceptionResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T14:20:36.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\BaseEntity.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\BaseEntity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:09:08.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Identity\\AppUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:58:15.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\RegisterDto.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\RegisterDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\RegisterDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:18:49.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\StoreContext.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContext.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\StoreContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:42:57.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "buggyController.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\buggyController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:19:19.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorsController.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ErrorsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\ErrorsController.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ErrorsController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\ErrorsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T18:28:46.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\ProductsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:25:51.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Address.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\Identity\\Address.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Identity\\Address.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\Identity\\Address.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Identity\\Address.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:59:10.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\BasketRepository.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\BasketRepository.cs",
+              "RelativeToolTip": "Amazon.repository\\BasketRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:19:07.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\LoginDto.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\LoginDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\LoginDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:34:59.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Repositories\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Repositories\\IBasketRepository.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Repositories\\IBasketRepository.cs",
+              "RelativeToolTip": "Amazon.core\\Repositories\\IBasketRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:16:56.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Helpers\\ProductPictureUrlResolver.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:02:29.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20260308140903_IdentityInitialCreate.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.cs",
+              "RelativeToolTip": "Amazon.repository\\Identity\\Migrations\\20260308140903_IdentityInitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:09:04.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "basketsController.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\basketsController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\basketsController.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\basketsController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\basketsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T12:17:12.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerBasket.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\CustomerBasket.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\CustomerBasket.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\CustomerBasket.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\CustomerBasket.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T12:21:55.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductsWithBrandAndTypeSpecification.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\ProductsWithBrandAndTypeSpecification.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T17:11:57.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\GenericRepository.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\GenericRepository.cs",
+              "RelativeToolTip": "Amazon.repository\\GenericRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:52:14.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductSpecParams.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductSpecParams.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\ProductSpecParams.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductSpecParams.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\ProductSpecParams.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:07:29.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Amazon.repository.csproj",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Amazon.repository.csproj",
+              "RelativeDocumentMoniker": "Amazon.repository\\Amazon.repository.csproj",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Amazon.repository.csproj",
+              "RelativeToolTip": "Amazon.repository\\Amazon.repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T17:21:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\Pagination.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Helpers\\Pagination.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Helpers\\Pagination.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Helpers\\Pagination.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T20:54:51.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\BaseSpecification.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:24:19.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductWithFilterationTypeSpec.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductWithFilterationTypeSpec.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\ProductWithFilterationTypeSpec.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ProductWithFilterationTypeSpec.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\ProductWithFilterationTypeSpec.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:10:07.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Amazon.core\\Repositories\\IGenericRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:50:41.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Specifications\\ISpecification.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "Amazon.core\\Specifications\\ISpecification.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T04:25:30.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApiValidationErrorResponse.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Errors\\ApiValidationErrorResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:27:46.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\WeatherForecast.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\WeatherForecast.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\WeatherForecast.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T23:23:19.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\Controllers\\BaseApiController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T19:26:13.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Amazon.API\u0060s.csproj",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "RelativeToolTip": "Amazon.API\u0060s\\Amazon.API\u0060s.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T14:59:15.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\Product.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\Product.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\Product.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:11:10.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductToReturnDto.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "RelativeDocumentMoniker": "Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "RelativeToolTip": "Amazon.API\u0060s\\DTO\u0060s\\ProductToReturnDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:09:08.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "brands.json",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\brands.json",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\DataSeed\\brands.json",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\brands.json",
+              "RelativeToolTip": "Amazon.repository\\Data\\DataSeed\\brands.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T12:42:49.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StoreContextSeed.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContextSeed.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\StoreContextSeed.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\StoreContextSeed.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\StoreContextSeed.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:39:48.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "products.json",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\products.json",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\DataSeed\\products.json",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\products.json",
+              "RelativeToolTip": "Amazon.repository\\Data\\DataSeed\\products.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T12:55:56.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductConfiguraation.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "RelativeToolTip": "Amazon.repository\\Data\\Config\\ProductConfiguraation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:46:20.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "types.json",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\types.json",
+              "RelativeDocumentMoniker": "Amazon.repository\\Data\\DataSeed\\types.json",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.repository\\Data\\DataSeed\\types.json",
+              "RelativeToolTip": "Amazon.repository\\Data\\DataSeed\\types.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T12:55:32.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductType.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\ProductType.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductType.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\ProductType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:10:10.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Amazon.core\\Entities\\ProductBrand.cs",
+              "ToolTip": "F:\\study\\Api\\Source code\\Amazon.API\u0060s\\Amazon.core\\Entities\\ProductBrand.cs",
+              "RelativeToolTip": "Amazon.core\\Entities\\ProductBrand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:09:37.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
